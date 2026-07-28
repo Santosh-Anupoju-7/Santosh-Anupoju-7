@@ -51,3 +51,32 @@
 <a href="mailto:santoshanupoju1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Santosh-Anupoju-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+
+## 👨‍💻 About Me
+
+🎯 Aspiring Data Scientist & AI/ML Enthusiast
+
+- 📊 Passionate about Data Science, Machine Learning, and AI
+- 🐍 Strong foundation in Python, SQL, Power BI, and Data Analysis
+- 📚 Currently learning Deep Learning, MLOps, and Generative AI
+- 🚀 Building end-to-end Data Science projects
+- 🌱 Always exploring new technologies and solving real-world problems
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎬 Netflix Movie Recommendation | Recommendation System using Collaborative Filtering | Python, Pandas, Scikit-learn |
+| 📱 Social Media Influencer Analysis | EDA and Engagement Analysis | Python, Pandas, Matplotlib |
+| 🎓 Student Performance Analysis | Data Analysis & Visualization | Python, Seaborn, Pandas |
+| 📦 Supply Chain Optimization | Demand Forecasting & Risk Analysis | Python, SQL, Power BI |
+| 📊 Sales Dashboard | Interactive Business Dashboard | Power BI, SQL |
+
+## 📜 Certifications
+
+🏅 Tata Group Data Analytics Job Simulation (Forage)
+
+🏅 Business Analytics Internship – YBI Foundation
+
+🏅 Warehouse Supervisor Internship – DDU-GKY
