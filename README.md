@@ -19,8 +19,3 @@
   <img src="https://github-readme-stats-bice-two-36.vercel.app/api/top-langs/?username=Santosh-Anupoju-7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats-bice-two-36.vercel.app/api/top-langs/?username=Santosh-Anupoju-7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
