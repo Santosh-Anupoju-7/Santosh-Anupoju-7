@@ -22,5 +22,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santosh-Anupoju-7&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santosh-Anupoju-7&theme=tokyo-night&hide_border=true" />
 </p>
