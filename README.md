@@ -91,3 +91,8 @@
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Santosh-Anupoju-7/Santosh-Anupoju-7/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Santosh-Anupoju-7&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
